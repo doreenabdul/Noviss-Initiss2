@@ -41,4 +41,4 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or feedback, please reach out to me at [obiajulu_2007@yahoo,ie].
+For any questions or feedback, please reach out to me at [obiajulu_2007@yahoo.ie].
